@@ -1,0 +1,15 @@
+/var/www/git/console_text_project/bin/Debug/net6.0/app
+/var/www/git/console_text_project/bin/Debug/net6.0/app.deps.json
+/var/www/git/console_text_project/bin/Debug/net6.0/app.runtimeconfig.json
+/var/www/git/console_text_project/bin/Debug/net6.0/app.dll
+/var/www/git/console_text_project/bin/Debug/net6.0/app.pdb
+/var/www/git/console_text_project/obj/Debug/net6.0/app.csproj.AssemblyReference.cache
+/var/www/git/console_text_project/obj/Debug/net6.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/var/www/git/console_text_project/obj/Debug/net6.0/app.AssemblyInfoInputs.cache
+/var/www/git/console_text_project/obj/Debug/net6.0/app.AssemblyInfo.cs
+/var/www/git/console_text_project/obj/Debug/net6.0/app.csproj.CoreCompileInputs.cache
+/var/www/git/console_text_project/obj/Debug/net6.0/app.dll
+/var/www/git/console_text_project/obj/Debug/net6.0/refint/app.dll
+/var/www/git/console_text_project/obj/Debug/net6.0/app.pdb
+/var/www/git/console_text_project/obj/Debug/net6.0/app.genruntimeconfig.cache
+/var/www/git/console_text_project/obj/Debug/net6.0/ref/app.dll
